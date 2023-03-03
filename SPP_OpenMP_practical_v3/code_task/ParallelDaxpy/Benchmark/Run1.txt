@@ -1,0 +1,60 @@
+Number of threads: 1
+Serial daxpy: 0.516399s.
+Parallel daxpy: 0.525118s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
+Number of threads: 2
+Serial daxpy: 0.521325s.
+Parallel daxpy: 0.533812s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
+Number of threads: 4
+Serial daxpy: 0.511471s.
+Parallel daxpy: 0.136958s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
+Number of threads: 8
+Serial daxpy: 0.511677s.
+Parallel daxpy: 0.100655s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
+Number of threads: 16
+Serial daxpy: 0.511539s.
+Parallel daxpy: 0.0910021s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
+Number of threads: 1
+Serial daxpy: 0.51161s.
+Parallel daxpy: 0.627617s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
+Number of threads: 2
+Serial daxpy: 0.511085s.
+Parallel daxpy: 0.563529s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
+Number of threads: 4
+Serial daxpy: 0.511807s.
+Parallel daxpy: 0.478614s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
+Number of threads: 8
+Serial daxpy: 0.511368s.
+Parallel daxpy: 0.431624s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
+Number of threads: 16
+Serial daxpy: 0.512087s.
+Parallel daxpy: 0.247769s.
+Vectors too long to print.
+Vectors too long to print.
+Correctness test passed.
